@@ -105,7 +105,7 @@
 - [Telegram](https://t.me/Sinasasani13)
 - [Twitter](https://x.com/rack_and_roly?s=21)
 - [Instagram](https://www.instagram.com/sina.sasani.497?igsh=ZjJza29jeTJrZnBv&utm_source=qr)
-- [Email](mailto:brsina504@gmail.com)
+- [brsina504@gmail.com](mailto:brsina504@gmail.com)
 
 ---
 
