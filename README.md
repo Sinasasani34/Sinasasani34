@@ -64,6 +64,10 @@
       <img src="https://github.com/user-attachments/assets/ac66cd8f-9818-45ab-947c-645ebb3ac158" alt="Fastify" width="48"/>
       <br />Fastify
     </td>
+    <td align="center">
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_socket_io_icon_130592.png" alt="SOCKET.IO" width="48"/>
+      <br />SOCKET.IO
+    </td>
   </tr>
   <tr>
     <td align="center">
