@@ -15,6 +15,14 @@
       <br />JavaScript
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48"/>
+      <br />JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48"/>
+      <br />JavaScript
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48"/>
       <br />TypeScript
     </td>
@@ -63,11 +71,11 @@
       <br />MongoDB
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/sequelize.png" alt="Sequelize" width="48"/>
+      <img src="https://github.com/user-attachments/assets/318d97dd-db7e-4e5e-b6e9-1c2a5b3f2ccc" alt="Sequelize" width="48"/>
       <br />Sequelize
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server" width="48"/>
+      <img src="https://github.com/user-attachments/assets/ee5f5971-328f-455a-9de6-772446631231" alt="SQL Server" width="48"/>
       <br />SQL Server
     </td>
     <td align="center">
