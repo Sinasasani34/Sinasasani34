@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/fastify.png" alt="Fastify" width="48"/>
+      <img src="https://github.com/user-attachments/assets/ac66cd8f-9818-45ab-947c-645ebb3ac158" alt="Fastify" width="48"/>
       <br />Fastify
     </td>
     <td align="center">
