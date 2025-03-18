@@ -65,7 +65,7 @@
       <br />Fastify
     </td>
     <td align="center">
-      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_socket_io_icon_130592.png" alt="SOCKET.IO" width="48"/>
+      <img src="https://github.com/user-attachments/assets/9597e8c3-a90c-416a-95c3-6fb2c7a95482" alt="SOCKET.IO" width="48"/>
       <br />SOCKET.IO
     </td>
   </tr>
