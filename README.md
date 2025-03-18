@@ -42,6 +42,8 @@
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/>
       <br />Python
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48"/>
       <br />Node.js
@@ -62,6 +64,8 @@
       <img src="https://github.com/user-attachments/assets/ac66cd8f-9818-45ab-947c-645ebb3ac158" alt="Fastify" width="48"/>
       <br />Fastify
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48"/>
       <br />MongoDB
