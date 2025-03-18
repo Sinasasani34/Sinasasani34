@@ -38,8 +38,6 @@
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="48"/>
       <br />C#
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/>
       <br />Python
@@ -60,8 +58,6 @@
       <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48"/>
       <br />Spring Boot
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ac66cd8f-9818-45ab-947c-645ebb3ac158" alt="Fastify" width="48"/>
       <br />Fastify
@@ -82,8 +78,6 @@
       <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="48"/>
       <br />MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="48"/>
       <br />Redis
