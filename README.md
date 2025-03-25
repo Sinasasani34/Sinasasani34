@@ -68,6 +68,10 @@
       <img src="https://github.com/user-attachments/assets/9597e8c3-a90c-416a-95c3-6fb2c7a95482" alt="SOCKET.IO" width="48"/>
       <br />SOCKET.IO
     </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8633d86a-ac6e-470f-9d12-3bbec8617209" alt="gRPC" width="48"/>
+      <br />gRPC
+    </td>
   </tr>
   <tr>
     <td align="center">
