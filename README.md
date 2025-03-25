@@ -75,6 +75,10 @@
       <br />MongoDB
     </td>
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/9b0a7877-aa87-448c-9149-91723db8396c" alt="GraphQL" width="48"/>
+      <br />GraphQL
+    </td>
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/318d97dd-db7e-4e5e-b6e9-1c2a5b3f2ccc" alt="Sequelize" width="48"/>
       <br />Sequelize
     </td>
