@@ -87,7 +87,7 @@
       <br />Sequelize
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/30496f31-1842-42b1-a9bc-68d87647072e" alt="Sequelize" width="48"/>
+      <img src="https://github.com/user-attachments/assets/37f10823-a6e2-42e0-85a7-e5b42fb01c88" alt="Sequelize" width="48"/>
       <br />TypeORM
     </td>
     <td align="center">
