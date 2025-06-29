@@ -87,6 +87,10 @@
       <br />Sequelize
     </td>
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/30496f31-1842-42b1-a9bc-68d87647072e" alt="Sequelize" width="48"/>
+      <br />TypeORM
+    </td>
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/ee5f5971-328f-455a-9de6-772446631231" alt="SQL Server" width="48"/>
       <br />SQL Server
     </td>
