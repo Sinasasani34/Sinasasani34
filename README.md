@@ -140,7 +140,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinasasani&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sinasasani" />
+
 
 
 
