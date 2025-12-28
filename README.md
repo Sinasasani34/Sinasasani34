@@ -141,7 +141,12 @@
 <div align="center">
 
 ## GitHub Stats
-<img src="https://github.com/SinaSasani/SinaSasani/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=SinaSasani&show_icons=true&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SinaSasani&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaSasani&layout=compact&hide_border=true" />
+
 
 
 </div>
