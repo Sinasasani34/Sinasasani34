@@ -141,11 +141,8 @@
 <div align="center">
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SinaSasani&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PouyaBirvand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&border_radius=10" width="400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SinaSasani&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaSasani&layout=compact&hide_border=true" />
 
 
 
