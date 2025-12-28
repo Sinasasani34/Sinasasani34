@@ -146,8 +146,9 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaSasani&layout=compact&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PouyaBirvand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&border_radius=10" width="400" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaBirvand&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFF&area=true&hide_border=true&radius=10" width="400" />
 
 </div>
 
