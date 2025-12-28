@@ -140,8 +140,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinasasani&show_icons=true" />
-
+<img src="https://metrics.lecoq.io/sinasasani?template=terminal&base.header=0&base.activity=1&languages=1&followup=1&config.timezone=Asia/Tehran" />
 
 
 </div>
