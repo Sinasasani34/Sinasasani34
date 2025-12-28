@@ -141,7 +141,8 @@
 <div align="center">
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=PouyaBirvand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&border_radius=10" width="400" />
+<img src="https://github.com/SinaSasani/SinaSasani/blob/output/github-contribution-grid-snake.svg" />
+
 
 </div>
 
