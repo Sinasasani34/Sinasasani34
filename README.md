@@ -140,7 +140,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinasasani&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area=true&hide_border=true&radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sinasasani&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E" />
+
 
 
 </div>
