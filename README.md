@@ -96,7 +96,7 @@
       <br><b>Postgres</b>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mssql" width="55" />
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" />
       <br><b>SQL SERVER</b>
     </td>
     <td align="center" width="90">
