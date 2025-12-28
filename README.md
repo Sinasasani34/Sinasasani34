@@ -146,9 +146,8 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SinaSasani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&border_radius=10" width="400" />
+<img src="https://metrics.lecoq.io/SinaSasani?template=terminal&base.header=0&base.activity=1&base.community=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&followup=1&config.timezone=Asia/Tehran" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SinaSasani&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area=true&hide_border=true&radius=10" width="400" />
 
 </div>
 
