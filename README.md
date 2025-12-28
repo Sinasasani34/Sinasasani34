@@ -146,7 +146,7 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SinaSasani&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaSasani&layout=compact&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF&hide_border=true" />
 
 
 </div>
