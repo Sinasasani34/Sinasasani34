@@ -45,8 +45,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## Backend & Frameworks
@@ -71,19 +69,13 @@
       <br><b>Socket.IO</b>
     </td>
     <td align="center" width="90">
-      <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="55" />
-      <br><b>Telegraph</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="55" />
-      <br><b>GraphQL</b>
+      <img src="https://telegraf.js.org/media/logo.svg" width="55" />
+      <br><b>Telegraf</b>
     </td>
   </tr>
 </table>
 
 </div>
-
----
 
 <div align="center">
 
@@ -100,24 +92,28 @@
       <br><b>MySQL</b>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" />
-      <br><b>SQL</b>
+      <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" width="55" />
+      <br><b>Postgres</b>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mssql" width="55" />
-      <br><b>SQL Server</b>
+      <br><b>SQL SERVER</b>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redis" width="55" />
       <br><b>Redis</b>
     </td>
     <td align="center" width="90">
-      <img src="https://typeorm.io/favicon/favicon.ico" width="55" />
+      <img src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" width="55" />
       <br><b>TypeORM</b>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sequelize" width="55" />
       <br><b>Sequelize</b>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=graphql" width="55" />
+      <br><b>GraphQL</b>
+    </td>
     </td>
   </tr>
 </table>
@@ -145,14 +141,7 @@
 <div align="center">
 
 ## GitHub Stats
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=180&section=header&text=Sina%20Sasani&fontSize=40&fontColor=ffffff" />
-
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=PouyaBirvand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&border_radius=10" width="400" />
-
-
 
 </div>
 
